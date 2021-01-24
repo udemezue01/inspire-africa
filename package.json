@@ -34,7 +34,6 @@
     "vue-template-compiler": "^2.6.11"
   },
 
-  },
 "git": {
   "scripts": {
     "pre-push": "surge --project ./dist --domain inspire-africa.surge.sh"
