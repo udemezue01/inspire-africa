@@ -12,7 +12,7 @@
 
 			</div>
 
-			<div class="flex justify-between space-x-6 item-center">
+			<div class="flex justify-between space-x-6 item-center hidden lg:block">
 
 				<a href="" class="text-gray-800 font-body font-medium text-md tracking-wider hover:text-gray-900">Courses</a>
 				<a href="" class="text-gray-800 font-body font-medium text-md tracking-wider hover:text-gray-900"> About </a>
@@ -64,6 +64,7 @@ export default {
 
 		return{
 
+			isOpen:false,
 
 		}
 	}

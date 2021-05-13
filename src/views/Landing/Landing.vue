@@ -7,9 +7,9 @@
 
 <section class="flex justify-between">
 
-	<div class="mt-40 space-y-12">
+	<div class="mt-40 space-y-14">
 
-		<h1 class="text-6xl tracking-wider font-body font-black text-gray-900"> Inspire Africa.</h1>
+		<h1 class="text-7xl tracking-wider font-black text-gray-800"> Inspire Africa.</h1>
 
 		<p class=" text-3xl tracking-wider font-medium font-body text-gray-700"> Preparing the next generation <br>for the future of work.</p>
 
@@ -19,7 +19,7 @@
 
 		<a href="" class="px-3 py-3 bg-green-600 text-white font-bold rounded-lg"> Get Started </a>
 
-		<a href="" class="px-3 py-3 bg-gray-900 font-bold text-white rounded-lg"> Learn More </a>
+		<a href="" class="text-gray-800 font-body font-medium text-md  tracking-wider ring-1 ring-green-600 px-3 py-3 rounded-lg hover:text-gray-900 "> Learn More</a>
 		
 
 	</div>
@@ -113,8 +113,78 @@
 </section>
 
 
-
 <!-- End of the about us section -->
+
+<!-- The Partners Section -->
+
+<section class="mt-12 space-y-4">
+	<div class="space-y-4">
+
+		<h1 class=" text-3xl tracking-wider font-body font-bold"> Partners.</h1>
+
+	<p class="text-gray-700 tracking-wider font-body text-xl">Inspire Africa offers a wide range of courses to assist with growth. </p>
+	
+		
+	</div>
+
+	<div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+		<div class="bg-white px-4 py-6 space-y-6 shadow rounded-lg">
+
+			<img src="/img/digital-marketing.svg" class="w-full h-96">
+<!-- 			
+		
+ -->
+			<h1 class="text-center text-gray-800 tracking-wider font-body text-lg"> 
+
+
+			Digital Marketing</h1>
+
+			<p class="text-center text-gray-800 tracking-wider font-body text-base">
+				
+
+			</p>
+
+			
+
+
+
+		</div>
+		<div class="bg-white px-4 py-6 space-y-3 shadow rounded-lg">
+
+			<img src="/img/data-science.svg" class="w-full h-96">
+
+
+			<h1 class="text-center text-gray-800 tracking-wider font-body text-lg"> Data Science</h1>
+
+	
+
+		</div>
+
+		<div class="bg-white px-4 py-6 space-y-3 shadow rounded-lg">
+			<img src="/img/product-design.svg" class="w-full h-96">
+
+	
+
+			<h1 class="text-center text-gray-800 tracking-wider font-body text-lg"> 
+			Product Design</h1>
+
+	
+
+		</div>
+		
+
+	</div>
+
+	
+
+</section>
+
+<!-- End of the partner section -->
+
+
+
+
 
 
  <!-- The Digital Marketing section -->
@@ -153,15 +223,7 @@
 <!-- End of the email marketing section -->
 
 
-<!--  The footer section-->
 
-<footer>
-	
-
-
-</footer>
-
-<!-- End of the Footer section -->
 	
 
 </div>
