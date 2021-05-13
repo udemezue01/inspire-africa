@@ -9,7 +9,7 @@
 
 	<div class="mt-40 space-y-14">
 
-		<h1 class="text-7xl tracking-wider font-black text-gray-800"> Inspire Africa.</h1>
+		<h1 class="text-7xl tracking-wider font-black text-gray-700 hover:text-gray-800"> Inspire Africa.</h1>
 
 		<p class=" text-3xl tracking-wider font-medium font-body text-gray-700"> Preparing the next generation <br>for the future of work.</p>
 
@@ -201,6 +201,78 @@
 
 
 <!--  End of the Digital Marketing section -->
+
+<!-- The Blog Section -->
+
+<section>
+	
+
+	<div class="space-y-4">
+
+		<h1 class=" text-3xl tracking-wider font-body font-bold"> Blog.</h1>
+
+	<p class="text-gray-700 tracking-wider font-body text-xl">Get Amazing Content Delivered To You. </p>
+	
+		
+	</div>
+
+	<div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+		<div class="bg-white px-4 py-6 space-y-6 shadow rounded-lg">
+
+			<img src="/img/digital-marketing.svg" class="w-full h-96">
+<!-- 			
+		
+ -->
+			<h1 class="text-center text-gray-800 tracking-wider font-body text-lg"> 
+
+
+			Digital Marketing</h1>
+
+			<p class="text-center text-gray-800 tracking-wider font-body text-base">
+				
+
+			</p>
+
+			
+
+
+
+		</div>
+		<div class="bg-white px-4 py-6 space-y-3 shadow rounded-lg">
+
+			<img src="/img/data-science.svg" class="w-full h-96">
+
+
+			<h1 class="text-center text-gray-800 tracking-wider font-body text-lg"> Data Science</h1>
+
+	
+
+		</div>
+
+		<div class="bg-white px-4 py-6 space-y-3 shadow rounded-lg">
+			<img src="/img/product-design.svg" class="w-full h-96">
+
+	
+
+			<h1 class="text-center text-gray-800 tracking-wider font-body text-lg"> 
+			Product Design</h1>
+
+	
+
+		</div>
+		
+
+	</div>
+
+	
+
+</section>
+
+
+
+
+<!-- End Of The Blog Section -->
 
 <!-- The email marketing section -->
 

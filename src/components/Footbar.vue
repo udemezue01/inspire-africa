@@ -4,7 +4,7 @@
 
 	<div class="space-y-3">
 
-		<a href="" class="text-gray-100 text-base font-body font-black block"> Inspire Africa</a>
+		<a href="" class="text-gray-100 text-base font-body font-black block tracking-wider"> Inspire Africa</a>
 
 
 		
@@ -12,9 +12,9 @@
 
 		<div class="space-y-3">
 
-		<h1 class="text-gray-100 text-md font-body font-black block"> Support</h1>
+		<h1 class="text-gray-100 text-md font-body font-black block tracking-wider"> Support</h1>
 
-		<a href="" class="text-gray-100 text-base font-body font-black block"> Home </a>
+		<a href="" class="text-gray-100 text-base font-body font-black block tracking-wider"> Home </a>
 	
 
 		
@@ -22,7 +22,7 @@
 
 		<div class="space-y-3">
 
-		<a href="" class="text-gray-100 text-base font-body font-black block"> Inspire Africa</a>
+		<a href="" class="text-gray-100 text-base font-body font-black block tracking-wider"> Inspire Africa</a>
 	
 
 		
@@ -30,7 +30,7 @@
 
 	<div class="space-y-3">
 
-		<a href="" class="text-gray-100 text-base font-body font-black block"> Inspire Africa</a>
+		<a href="" class="text-gray-100 text-base font-body font-black block tracking-wider"> Inspire Africa</a>
 	
 
 		

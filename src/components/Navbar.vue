@@ -5,20 +5,20 @@
 
 			<div class="flex item-center space-x-3">
 
-				<img src="/img/logo/logo-one.svg" class="h-10 w-10 object-center object-cover">
+				<img src="/img/logo/sun.svg" class="h-10 w-10 object-center object-cover">
 				
-				<p class="text-gray-800 font-body font-bolder text-lg font-black tracking-wider hover:text-gray-900"> Inspire Africa</p>
+			<!-- 	<p class="text-gray-800 font-body font-bolder text-lg font-black tracking-wider hover:text-gray-900"> Inspire Africa</p> -->
 
 
 			</div>
 
 			<div class="flex justify-between space-x-6 item-center hidden lg:block">
 
-				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900">Courses</a>
-				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900"> About </a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider px-3 py-3 rounded-lg hover:text-gray-900 hover:bg-green-100 ">courses</a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider px-3 py-3 rounded-lg hover:text-gray-900 hover:bg-green-100 "> about </a>
 
-				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900">Blog </a>
-				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900">Contact </a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider px-3 py-3 rounded-lg hover:text-gray-900 hover:bg-green-100 ">blog </a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider px-3 py-3 rounded-lg hover:text-gray-900 hover:bg-green-100 ">contact </a>
 				
 
 			</div>
