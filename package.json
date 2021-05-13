@@ -29,16 +29,16 @@
     "chai": "^4.1.2",
     "git-scripts": "^0.4.3",
     "node-sass": "^4.12.0",
+    "pre-push": "^0.1.1",
     "sass-loader": "^8.0.2",
     "surge": "latest",
     "vue-template-compiler": "^2.6.11"
   },
-
-"git": {
-  "scripts": {
-    "pre-push": "surge --project ./dist --domain inspire-africa.surge.sh"
-  }
-},
+  "git": {
+    "scripts": {
+      "pre-push": "surge --project ./dist --domain inspire-africa.surge.sh"
+    }
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions",
