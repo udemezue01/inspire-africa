@@ -5,7 +5,7 @@
 
 			<div class="flex item-center space-x-3">
 
-				<img src="/img/logo/logo-one.svg" class="h-8 w-8 object-center object-cover">
+				<img src="/img/logo/logo-one.svg" class="h-10 w-10 object-center object-cover">
 				
 				<p class="text-gray-800 font-body font-bolder text-lg font-black tracking-wider hover:text-gray-900"> Inspire Africa</p>
 
@@ -14,11 +14,11 @@
 
 			<div class="flex justify-between space-x-6 item-center hidden lg:block">
 
-				<a href="" class="text-gray-800 font-body font-medium text-md tracking-wider hover:text-gray-900">Courses</a>
-				<a href="" class="text-gray-800 font-body font-medium text-md tracking-wider hover:text-gray-900"> About </a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900">Courses</a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900"> About </a>
 
-				<a href="" class="text-gray-800 font-body font-medium text-md tracking-wider hover:text-gray-900">Blog </a>
-				<a href="" class="text-gray-800 font-body font-medium text-md tracking-wider hover:text-gray-900">Contact </a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900">Blog </a>
+				<a href="" class="text-gray-800 font-body font-medium text-lg tracking-wider hover:text-gray-900">Contact </a>
 				
 
 			</div>
@@ -29,10 +29,10 @@
 
 			<div class="flex justify-between item-center space-x-3 hidden lg:block">
 				
-				<a href="" class="text-gray-800 font-body font-medium text-md  tracking-wider ring-1 ring-green-600 px-3 py-2 rounded-lg hover:text-gray-900 "> Join</a>
+				<a href="" class="text-green-600 font-body font-medium text-lg  tracking-wider ring-1 ring-green-600 px-3 py-2 rounded-lg hover:text-gray-900 "> Join</a>
 
 
-				<a href="" class="bg-green-600 text-white px-3 py-2 rounded-lg font-medium text-md tracking-wider"> Login</a>
+				<a href="" class="bg-green-600 text-white px-3 py-2 rounded-lg font-medium text-lg tracking-wider"> Login</a>
 
 				<!-- The dropdown section -->
 

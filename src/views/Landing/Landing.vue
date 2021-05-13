@@ -19,7 +19,7 @@
 
 		<a href="" class="px-3 py-3 bg-green-600 text-white font-bold rounded-lg"> Get Started </a>
 
-		<a href="" class="text-gray-800 font-body font-medium text-md  tracking-wider ring-1 ring-green-600 px-3 py-3 rounded-lg hover:text-gray-900 "> Learn More</a>
+		<a href="" class="text-green-600 font-body font-medium text-md  tracking-wider ring-1 ring-green-600 px-3 py-3 rounded-lg hover:text-green-700 "> Learn More</a>
 		
 
 	</div>
