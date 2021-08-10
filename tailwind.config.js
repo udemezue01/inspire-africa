@@ -3,7 +3,7 @@ module.exports = {
 
    './src/App.vue',
      './src/components/Navbar.vue',
-     './src/components/Footer.vue',
+     './src/components/Footbar.vue',
     './src/views/Landing/Landing.vue',
     './src/views/Landing/About.vue',
     './src/views/Courses/Courses.vue',
